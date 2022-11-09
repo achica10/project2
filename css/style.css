@@ -7,6 +7,15 @@ body {
 
 h1 {
   text-align: center;
+  text-decoration: underline overline;
+}
+
+.index-text {
+	text-align: center;
+}
+
+.lul {
+	text-align: center;
 }
 
 #main-navbar{
