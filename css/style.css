@@ -10,12 +10,12 @@ h1 {
 }
 
 #main-navbar{
-	background-color: blue;
-	text-align: center;
-	font-size: 20px;
-	width: 100%;
-	font-weight: bold;
-	position: relative;
+  background-color: blue;
+  text-align: center;
+  font-size: 20px;
+  width: 100%;
+  font-weight: bold;
+  position: relative;
 }
 
 #navbar-container {
