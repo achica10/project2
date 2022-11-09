@@ -17,12 +17,16 @@ h1 {
 }
 
 .index-text {
+  text-align: center;
+  background-color: blue;
+}
+
+.aboutme-text {
 	text-align: center;
-	background-color: blue;
 }
 
 .gp-text {
-	text-align: center;
+  text-align: center;
 }
 
 #main-navbar{
