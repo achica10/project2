@@ -19,19 +19,22 @@ h1 {
 .index-text {
   text-align: center;
   background-color: blue;
+  padding: 0.5em
 }
 
 .cntr {
-	text-align: center;
+  text-align: center;
 }
 
 .aboutme-text {
-	text-align: center;
-	background-color: blue;
+  text-align: center;
+  background-color: red;
+  padding: 0.5em;
 }
 
 .gp-text {
   text-align: center;
+  padding: 0.5em;
 }
 
 #main-navbar{
