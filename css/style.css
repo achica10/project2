@@ -5,9 +5,15 @@ body {
   color: white;
 }
 
+@font-face {
+  font-family: 'madeavenue';
+  src: url(fonts/MADEAvenuePERSONALUSE-Regular.otf);
+}
+
 h1 {
   text-align: center;
   text-decoration: underline overline;
+  font-family: 'madeavenue'
 }
 
 .index-text {
