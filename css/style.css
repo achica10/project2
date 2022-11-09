@@ -21,8 +21,13 @@ h1 {
   background-color: blue;
 }
 
+.cntr {
+	text-align: center;
+}
+
 .aboutme-text {
 	text-align: center;
+	background-color: blue;
 }
 
 .gp-text {
